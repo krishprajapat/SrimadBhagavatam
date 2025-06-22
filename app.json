@@ -1,4 +1,7 @@
 {
   "name": "Srimad02",
-  "displayName": "Srimad02"
+  "displayName": "Srimad02",
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-7206127764714040~7006382113"
+  }
 }
