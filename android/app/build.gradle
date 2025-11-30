@@ -87,8 +87,25 @@ android {
         applicationId "com.srimad02"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
-        versionCode 9
-        versionName "4.0"
+        versionCode 10
+        versionName "5.0"
+        
+        // Add these for API 34 compliance
+        multiDexEnabled true
+        vectorDrawables.useSupportLibrary = true
+        
+        // 16 KB page size support: With AGP 8.3.0+ and NDK 26.2+,
+        // native libraries are automatically aligned for 16 KB pages
+    }
+    
+    // Add compile options for API 34
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+    
+    kotlinOptions {
+        jvmTarget = "17"
     }
     signingConfigs {
         release {
@@ -123,7 +140,7 @@ android {
 dependencies {
     // The version of react-native is set by the React Native Gradle Plugin
     implementation("com.facebook.react:react-android")
-    implementation("com.google.android.gms:play-services-ads:22.6.0")
+    implementation("com.google.android.gms:play-services-ads:${rootProject.ext.playServicesAds}")
     implementation("androidx.webkit:webkit:1.8.0")
 
     if (hermesEnabled.toBoolean()) {

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "69481640404",
+    "project_id": "srimad-afe0d",
+    "storage_bucket": "srimad-afe0d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69481640404:android:d4518f0a231927c1666641",
+        "android_client_info": {
+          "package_name": "com.srimad02"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRmancaHbPSuhHGOkeifbS9Li4VO3u_tg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

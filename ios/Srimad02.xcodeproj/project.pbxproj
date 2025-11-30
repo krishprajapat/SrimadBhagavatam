@@ -24,6 +24,8 @@
 		32C78C385C1B4F0FAE24E4F8 /* Mukta-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B8262EBCEBA6421A9F60DF9B /* Mukta-Medium.ttf */; };
 		03664550957F4646B22FA321 /* Mukta-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9ED86ECBF82D4BA986527E47 /* Mukta-Regular.ttf */; };
 		759A2CE2B8A3418083F08F4D /* Mukta-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DBEEB15BD459495FB42EDCA1 /* Mukta-SemiBold.ttf */; };
+		C20FCDF49C7B417CAF0E6FE8 /* Atop-R99O3.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 00ABFC38C19B4F65BDEF07D2 /* Atop-R99O3.ttf */; };
+		5DB8767B3D5E4076881224A8 /* SuperMaples-2vR2w.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1DC30BACAE094D3F84736D4B /* SuperMaples-2vR2w.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -65,6 +67,8 @@
 		B8262EBCEBA6421A9F60DF9B /* Mukta-Medium.ttf */ = {isa = PBXFileReference; name = "Mukta-Medium.ttf"; path = "../assets/fonts/Mukta-Medium.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 		9ED86ECBF82D4BA986527E47 /* Mukta-Regular.ttf */ = {isa = PBXFileReference; name = "Mukta-Regular.ttf"; path = "../assets/fonts/Mukta-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 		DBEEB15BD459495FB42EDCA1 /* Mukta-SemiBold.ttf */ = {isa = PBXFileReference; name = "Mukta-SemiBold.ttf"; path = "../assets/fonts/Mukta-SemiBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		00ABFC38C19B4F65BDEF07D2 /* Atop-R99O3.ttf */ = {isa = PBXFileReference; name = "Atop-R99O3.ttf"; path = "../assets/fonts/Atop-R99O3.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		1DC30BACAE094D3F84736D4B /* SuperMaples-2vR2w.ttf */ = {isa = PBXFileReference; name = "SuperMaples-2vR2w.ttf"; path = "../assets/fonts/SuperMaples-2vR2w.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -184,6 +188,8 @@
 				B8262EBCEBA6421A9F60DF9B /* Mukta-Medium.ttf */,
 				9ED86ECBF82D4BA986527E47 /* Mukta-Regular.ttf */,
 				DBEEB15BD459495FB42EDCA1 /* Mukta-SemiBold.ttf */,
+				00ABFC38C19B4F65BDEF07D2 /* Atop-R99O3.ttf */,
+				1DC30BACAE094D3F84736D4B /* SuperMaples-2vR2w.ttf */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -294,6 +300,8 @@
 				32C78C385C1B4F0FAE24E4F8 /* Mukta-Medium.ttf in Resources */,
 				03664550957F4646B22FA321 /* Mukta-Regular.ttf in Resources */,
 				759A2CE2B8A3418083F08F4D /* Mukta-SemiBold.ttf in Resources */,
+				C20FCDF49C7B417CAF0E6FE8 /* Atop-R99O3.ttf in Resources */,
+				5DB8767B3D5E4076881224A8 /* SuperMaples-2vR2w.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

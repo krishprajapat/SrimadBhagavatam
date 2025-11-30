@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adservicesConfig>
+    <!-- Google Mobile Ads Ad Services Configuration -->
+    <!-- This file resolves manifest merger conflicts between different Google Play Services libraries -->
+</adservicesConfig>

@@ -33,6 +33,8 @@ local.properties
 .cxx/
 *.keystore
 !debug.keystore
+android/caches/
+android/.tmp/
 
 # node.js
 #
