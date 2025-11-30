@@ -35,6 +35,7 @@ local.properties
 !debug.keystore
 android/caches/
 android/.tmp/
+android/wrapper/dists/
 
 # node.js
 #
